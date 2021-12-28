@@ -1,0 +1,22 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Arimo&family=Heebo:wght@300&family=Josefin+Sans:ital,wght@1,300&family=Kumbh+Sans:wght@800&family=Poppins:wght@300&family=Roboto:ital,wght@0,400;1,300&family=Shippori+Antique&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Heebo:wght@300&family=Josefin+Sans:ital,wght@1,300&family=Kumbh+Sans:wght@800&family=Poppins:wght@300&family=Roboto:wght@100&family=Shippori+Antique&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #F0F2F5;
+}
+
+textarea:focus, input:focus{
+  outline: none;
+}
+
+i {
+  background-color: #fff;
+  cursor: pointer;
+  /* color: rgb(211, 211, 211); */
+}
